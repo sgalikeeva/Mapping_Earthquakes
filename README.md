@@ -5,4 +5,5 @@ Using Leaflet and Mapbox, wrote a code to show earthquake data for the last 7 da
 
 ## Resources
 Data Source: USGS Earthquake data and Repo for tectonic plate data - both json files
+
 Software: Visual Studio Code 1.63.2, Leaflet, MapBox
